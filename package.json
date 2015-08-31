@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "each-async": "^1.0.0",
-    "node-sass": "https://github.com/justame/node-sass.git",
+    "node-sass": "https://github.com/justame/node-sass.git#master",
     "object-assign": "^2.0.0"
   },
   "devDependencies": {
